@@ -1,0 +1,20 @@
+{
+  "name": "main_chatapp",
+  "version": "1.0.0",
+  "description": "social media app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalabimain/shalabi_m_ChatApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/shalabimain/shalabi_m_ChatApp.git",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
